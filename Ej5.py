@@ -38,4 +38,3 @@ while opcion != "salir":
         num2 = float(input("Introduce un numero: "))
     except ValueError:
         print("Introduce solo numeros")
-
